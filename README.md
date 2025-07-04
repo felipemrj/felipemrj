@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm Felipe!
 
 - 🦷 I work as a 3D technical designer in a dental prosthesis laboratory.
-- 🎓 I'm currently studying **Systems Analysis and Development** at **PUCPR**, and I have a technical degree in **Internet Informatics** from **ETEC Pq. Belém**.
+- 🎓 I'm currently studying **Systems Analysis and Development** at **PUCPR**, and I have a technical degree in **Web Development** from **ETEC Pq. Belém**.
 - 💡 My goal is to become a software developer, with a primary focus on **Java** and object-oriented programming.
 - 🚀 Looking for opportunities to apply my knowledge and grow in the technology field.
 
