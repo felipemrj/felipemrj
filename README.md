@@ -1,3 +1,5 @@
+> :information_source: Para a versão em português, veja [README-pt_BR.md](README-pt_BR.md).
+
 ## 👋 Hi, I'm Felipe!
 
 - 🦷 I work as a 3D technical designer in a dental prosthesis laboratory.
