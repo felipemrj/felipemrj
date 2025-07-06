@@ -2,8 +2,8 @@
 
 - Atuo como desenhista técnico de modelos 3D em um laboratório de próteses dentárias.
 - Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e tenho formação técnica em **Informática para Internet** pela **ETEC Pq. Belém**.
-- Meu objetivo é me tornar desenvolvedor de software, com foco principal em **Java** e programação orientada a objetos.
-- Busco oportunidades para aplicar meus conhecimentos e crescer na área de tecnologia.
+- Meu objetivo é dominar a a linguagem **Java** e seu ecosistema, com um base sólida dos conceitos da programação orientada a objetos.
+  
 
 ---
 
