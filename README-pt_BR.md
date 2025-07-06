@@ -2,7 +2,7 @@
 
 - Atuo como desenhista técnico de modelos 3D em um laboratório de próteses dentárias.
 - Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e tenho formação técnica em **Informática para Internet** pela **ETEC Pq. Belém**.
-- Meu objetivo é dominar a a linguagem **Java** e seu ecosistema, com um base sólida dos conceitos da programação orientada a objetos.
+- Meu objetivo é alcançar um bom domínio da linguagem de programação **Java**, bem como seu ecosistema, com um base sólida dos conceitos da programação orientada a objetos.
   
 
 ---
