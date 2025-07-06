@@ -1,13 +1,13 @@
-## 👋 Olá, eu sou o Felipe!
+## Oi, eu sou o Felipe!
 
-- 🦷 Atuo como desenhista técnico de modelos 3D em um laboratório de próteses dentárias.
-- 🎓 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e tenho formação técnica em **Informática para Internet** pela **ETEC Pq. Belém**.
-- 💡 Meu objetivo é me tornar desenvolvedor de software, com foco principal em **Java** e programação orientada a objetos.
-- 🚀 Busco oportunidades para aplicar meus conhecimentos e crescer na área de tecnologia.
+- Atuo como desenhista técnico de modelos 3D em um laboratório de próteses dentárias.
+- Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e tenho formação técnica em **Informática para Internet** pela **ETEC Pq. Belém**.
+- Meu objetivo é me tornar desenvolvedor de software, com foco principal em **Java** e programação orientada a objetos.
+- Busco oportunidades para aplicar meus conhecimentos e crescer na área de tecnologia.
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### Recursos
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>
