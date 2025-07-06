@@ -9,7 +9,7 @@
 
 ---
 
-### Technologies & Tools
+### Resources
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>
