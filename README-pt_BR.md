@@ -1,4 +1,4 @@
-## Oi, eu sou o Felipe!
+## Sobre mim
 
 - Atuo como desenhista técnico de modelos 3D em um laboratório de próteses dentárias.
 - Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** e tenho formação técnica em **Informática para Internet** pela **ETEC Pq. Belém**.
