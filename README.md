@@ -2,8 +2,8 @@
 
 # 👋 Hey! I’m Felipe
 
-My journey is anything but ordinary—and that's exactly my greatest strength.  
-From the world of web development to the precision-driven universe of digital dentistry, I've learned that technology is most powerful when it transforms lives.
+My journey is anything but ordinary, and that's exactly my greatest strength.  
+From the world of web development to the precision driven universe of digital dentistry, I've learned that technology is most powerful when it transforms lives.
 
 ## 🚀 About Me
 
