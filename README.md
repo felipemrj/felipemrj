@@ -1,6 +1,6 @@
 > :information_source: Para a versão em português, veja [README-pt_BR.md](README-pt_BR.md).
 
-## Hey, I'm Felipe!
+## About me
 
 -  I work as a 3D technical designer in a dental prosthesis laboratory.
 -  I'm currently studying **Systems Analysis and Development** at **PUCPR**, and I have a technical degree in **Web Development** from **ETEC Pq. Belém**.
