@@ -13,7 +13,7 @@ From the world of web development to the precision driven universe of digital de
 - 💡 Bridging creativity, rigor, and empathy through multidisciplinary experience
 
 After years combining code and 3D digital modeling, I’m now channeling all this passion back into tech.  
-**My goal:** to build robust, scalable solutions as a backend developer, mastering Java and its entire ecosystem—with a solid grip on object-oriented programming and real-world problem-solving.
+**My goal:** to build robust, scalable solutions as a backend developer, mastering Java and its entire ecosystem with a solid grip on object oriented programming and real world problem solving.
 
 ---
 
