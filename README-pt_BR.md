@@ -13,7 +13,7 @@ Do universo do desenvolvimento web à precisão do design digital odontológico,
 - 💡 Experiência multidisciplinar: criatividade, rigor técnico e empatia caminhando juntos
 
 Após anos alternando entre código e modelagem 3D, estou canalizando toda essa paixão de volta para a tecnologia.  
-**Meu objetivo:** construir soluções robustas e escaláveis como desenvolvedor backend, dominando Java e todo seu ecossistema — com uma base sólida em programação orientada a objetos e resolução de problemas do mundo real.
+**Meu objetivo:** construir soluções robustas e escaláveis como desenvolvedor backend, dominando Java e todo seu ecossistema, com uma base sólida em programação orientada a objetos e resolução de problemas do mundo real.
 
 ---
 
