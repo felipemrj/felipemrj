@@ -9,7 +9,7 @@ From the world of web development to the precision driven universe of digital de
 
 - Currently studying **Systems Analysis and Development** at **PUCPR**  
 - Technical degree in **Web Development** (ETEC Pq. Belém)
-- 3D technical designer in a dental prosthesis lab: modeling and printing customized dental solutions
+- Interning as a Quality Engineer for Software Development at CWI Software
 
 After years of combined experience, I’m now channeling all this passion back into tech.  
 **My goal:** build solutions as a backend developer, mastering Java and its entire ecosystem with a solid grip on object oriented programming and real world problem solving.
