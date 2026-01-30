@@ -9,7 +9,7 @@ Do universo do desenvolvimento web à precisão do design digital odontológico,
 
 - Atualmente curso **Análise e Desenvolvimento de Sistemas** na **PUCPR**  
 - Técnico em **Desenvolvimento Web** (ETEC Pq. Belém)
-- Atuo como desenhista técnico 3D em um laboratório de prótese dentária: modelagem e impressão de soluções odontológicas personalizadas
+- Atualmente estagiando como Engenheiro de Qualidade aplicado ao Desenvolvimento de Software na CWI Software
 
 
 Após anos alternando entre código e modelagem 3D, estou canalizando toda essa paixão de volta para a tecnologia.  
