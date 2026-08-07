@@ -1,41 +1,53 @@
 > :information_source: For the English version, see [README.md](README.md).
 
-# Oi!
+<div align="center">
 
-Minha trajetória é tudo menos comum, e é justamente aí que está meu maior diferencial.  
-Do universo do desenvolvimento web à precisão do design digital odontológico, aprendi que a tecnologia é mais poderosa quando transforma vidas.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=140&section=header&text=Felipe%20Jesus&fontSize=32&fontColor=39FF14&fontAlignY=20&desc=Desenvolvedor%20Backend%20%40%20CWI%20Software&descAlignY=38&descSize=16&descColor=00F5FF&width=100%" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+stack%3A+Java+%2B+Spring+Boot+%2B+PostgreSQL;%3E+atualmente%3A+refatorando+c%C3%B3digo+legado%2C+um+commit+por+vez;%3E+mindset%3A+n%C3%A3o+apenas+o+COMO%2C+mas+o+PORQU%C3%8A" alt="Typing SVG" />
 
-## Sobre mim
-
-- Atualmente curso **Análise e Desenvolvimento de Sistemas** na **PUCPR**  
-- Técnico em **Desenvolvimento Web** (ETEC Pq. Belém)
-- Atualmente estagiando como Engenheiro de Qualidade aplicado ao Desenvolvimento de Software na CWI Software
-
-
-Após anos alternando entre código e modelagem 3D, estou canalizando toda essa paixão de volta para a tecnologia.  
-**Meu objetivo:** construir soluções como desenvolvedor backend, dominando Java e todo seu ecossistema, com uma base sólida em programação orientada a objetos e resolução de problemas do mundo real.
-
----
-
-## Tecnologias
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>
 </div>
 
----
+```java
+public class Felipe implements BackendDeveloper {
+    private String role = "Desenvolvedor Backend @ CWI Software";
+    private String education = "Análise e Desenvolvimento de Sistemas @ PUCPR (cursando)";
+    private String sideQuest = "Engenharia de Dados: Python, Databricks, Spark, arquitetura medalhão";
+    private String originStory = "Modelagem e impressão 3D na área odontológica";
+    private String philosophy = "curioso por natureza, profundo por escolha";
 
-## Vamos nos conectar!
+    @Override
+    public void code() {
+        while (true) {
+            learn();
+            build();
+            refactor();
+        }
+    }
+}
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemrj/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe_mrj@hotmail.com)
+<div align="center">
 
----
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF3E3E)
 
-> *"A inovação nasce quando ousamos cruzar fronteiras."*  
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/felipemrj/)
+[![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:felipe_mrj@hotmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer&width=100%" width="100%"/>
+
+<div align="center">
+
+```
+"A inovação nasce quando ousamos cruzar fronteiras."
+```
+
+</div>
